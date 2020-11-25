@@ -27,6 +27,9 @@ h1 {
   line-height: 1;
   border-radius: 1rem;
 }
+h1.message{
+  display:none;
+}
 
 .game {
   width: 600px;
